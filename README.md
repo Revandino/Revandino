@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![REVANDINO](img/github-header-image%20(3).png)
+
 👨‍💻 Passionate about coding and learning new technologies
 
 💻 Skilled in: C#, Visual Studio, SQL Server
