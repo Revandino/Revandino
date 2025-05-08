@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![REVANDINO](img/github-header-image%20(3).png)
+👨‍💻 Passionate about coding and learning new technologies
+💻 Skilled in: C#, Visual Studio, SQL Server
+📱 Currently learning: Android Studio, ASP.NET Core
+🚀 Exploring full-stack development and building real-world apps
+📌 All projects are here to document my learning journey
+📫 Reach me on Instagram: @revan7.dev
